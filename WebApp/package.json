@@ -1,0 +1,15 @@
+{
+  "name": "webapp",
+  "version": "3.7.1",
+  "description": "webdevelopment",
+  "main": "./src/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./src/server.js"
+  },
+  "config": {
+    "port": 80
+  },
+  "author": "aybars yildirim",
+  "license": "ISC"
+}
